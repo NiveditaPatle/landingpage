@@ -1,0 +1,63 @@
+#btn_x{
+    margin-left: 600px;
+ }
+
+ .btn_x {
+   /* width: 11; */
+   height: 40px;
+   padding: 10px 10px 10px 10px;
+   font-family: CircularStd;
+   font-size: 1.181rem;
+   font-weight: 500;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: normal;
+   letter-spacing: -0.59px;
+   text-align: center;
+   color: #fff;
+   background-color: #f0544c;
+   border: 1px solid #c31a12;
+   
+ }
+
+
+ .Customers-love-us {
+    /* width: 31.375rem; */
+    /* height: 3.938rem; */
+    /* margin: 0 0 1rem; */
+    /* font-family: CircularStd; */
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #19191b;
+  }
+
+  #cust{
+    color: #fff;
+  }
+
+ .p_3{
+    margin-top: 15px;
+    font-size: 0.788rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.39px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+ }
+
+ /* #div_19{
+    margin-top: 700px;
+ } */
+
+ .black{
+    background-color: #19191b;
+    padding-bottom: 40px;
+    padding-top: 50px;
+}

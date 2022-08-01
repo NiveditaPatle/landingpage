@@ -1,0 +1,63 @@
+.div_15{
+    width:35% ;
+  height: 470px;
+  margin-left: 50px;
+  border-radius: 9px;
+  box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.1);
+  background-color: #fff;
+}
+
+
+.div_16{
+    margin-top: 53px;
+    padding: 9px;
+    border-radius: 9px;
+    background-color: #5454d4;
+}
+
+.Starter {
+    margin-top: 25px;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    text-align: center;
+    color: #5454d4;
+  }
+
+  .mo {
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: -0.47px;
+    text-align: center;
+    color: #19191b;
+  }
+  .mo .text {
+    font-size: 4.5rem;
+    letter-spacing: -1.24px;
+  }
+
+  .Per-user {
+    font-size: 1.013rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: -0.51px;
+    text-align: center;
+    color: #696871;
+  }
+
+  .ul_1{
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    margin-left: 60px;
+    letter-spacing: -0.59px;
+    color: #19191b;
+  }

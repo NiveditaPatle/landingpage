@@ -1,0 +1,28 @@
+#nav{
+    background-image: radial-gradient(circle at 50% 0, #504a93, #413e65 77%);
+}
+
+.a_1{
+  color: #ffff;
+}
+
+#a_2{
+  color: red;
+}
+
+#nav_li {
+    /* width: 12.75rem;
+  height: 1.125rem;
+  margin: 0.75rem 2.125rem 0.688rem 59.813rem;
+  padding: 0.5rem 9rem 0.313rem 3.25rem; */
+    margin-left: 70%;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.45px;
+    text-align: right;
+    color: #f7f7fb;
+}

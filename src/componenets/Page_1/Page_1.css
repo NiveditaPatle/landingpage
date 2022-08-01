@@ -1,0 +1,85 @@
+#bg{
+    width: 100%;
+    height: 100%;
+    /* margin: 0 0 5.169rem; */
+    padding: 0.938rem 0 2.063rem 2rem;
+    background-image: radial-gradient(circle at 50% 0, #504a93, #413e65 77%);
+}
+
+.div_1{
+    margin-top: 50px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: center;
+}
+.div_2{
+    margin-top: 50px;
+    /* margin-right: 0px; */
+}
+
+.get {
+    width: 30.563rem;
+    height: 9.438rem;
+    margin: 0 0 1.75rem;
+    font-family: CircularStd;
+    font-size: 4.5rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.05;
+    letter-spacing: -2.25px;
+    color: #fff;
+  }
+  .Create-custom-landin {
+    width: 29.188rem;
+    height: 6.563rem;
+    margin: 1.75rem 1.063rem 2.313rem 0.313rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .btn_x {
+    /* width: 11; */
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    text-align: center;
+    color: #fff;
+    background-color: #f0544c;
+    border: 1px solid #c31a12;
+    
+  }
+
+  .No-credit-card-requi {
+    width: 12.188rem;
+    height: 1rem;
+    margin: 0.938rem 18.063rem 0 0.313rem;
+    font-family: CircularStd;
+    font-size: 0.788rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.39px;
+    color: rgba(255, 255, 255, 0.7);
+    
+  }
+
+.img_bitmap{
+    width: 80%;
+    margin-left: 0px;
+    /* height: 700px; */
+    /* margin: 5.625rem 0 0 27.813rem; */
+    /* object-fit: contain; */
+}

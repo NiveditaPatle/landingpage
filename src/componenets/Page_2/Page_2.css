@@ -1,0 +1,15 @@
+.div_3{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 120px;
+    display: flex;
+    justify-content: center;   
+}
+
+.div_4{
+    margin-right: 70px;
+}
+
+.img_layer{
+    margin-bottom: 30px;
+}

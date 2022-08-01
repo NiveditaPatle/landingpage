@@ -1,0 +1,73 @@
+#bg_2{
+    display: flex;
+    padding-left: 150px;
+}
+
+.Create-custom-landin {
+    width: 29.188rem;
+    height: 6.563rem;
+    margin: 1.75rem 1.063rem 2.313rem 0.313rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+.make{
+    width: 31.125rem;
+  height: 7.875rem;
+  margin: 0 0.125rem 1.438rem 0;
+  /* font-family: CircularStd; */
+  font-size: 50px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+
+#create{
+    color: #696871;
+}
+
+.img_bg2{
+    height: 700px;
+    margin-right: 70px;
+}
+
+.div_7{
+    display: flex;
+  
+}
+
+.f_h6{
+    margin-left: 15px;
+    margin-bottom: 5px;
+    font-size: 1.181rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  color: #19191b;
+}
+
+.With-lots-of-unique {
+    margin-left: 47px;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+  }
+
+.div_8{
+    margin-top: 30px;
+}
